@@ -15,6 +15,7 @@ public class Main {
         System.out.println("Fibonacci number " + numberFibonacci + " = " + fibonacci(numberFibonacci) );
 
         System.out.println("fibonacci(0) -> " + fibonacci(0));
+        sdsads
         System.out.println("fibonacci(5) -> " + fibonacci(5));
     }
 
